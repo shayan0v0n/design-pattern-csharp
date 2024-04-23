@@ -1,0 +1,15 @@
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\bin\Debug\net8.0\factory-pattern-2.exe
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\bin\Debug\net8.0\factory-pattern-2.deps.json
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\bin\Debug\net8.0\factory-pattern-2.runtimeconfig.json
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\bin\Debug\net8.0\factory-pattern-2.dll
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\bin\Debug\net8.0\factory-pattern-2.pdb
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\obj\Debug\net8.0\factory-pattern-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\obj\Debug\net8.0\factory-pattern-2.AssemblyInfoInputs.cache
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\obj\Debug\net8.0\factory-pattern-2.AssemblyInfo.cs
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\obj\Debug\net8.0\factory-pattern-2.csproj.CoreCompileInputs.cache
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\obj\Debug\net8.0\factory-pattern-2.sourcelink.json
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\obj\Debug\net8.0\factory-pattern-2.dll
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\obj\Debug\net8.0\refint\factory-pattern-2.dll
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\obj\Debug\net8.0\factory-pattern-2.pdb
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\obj\Debug\net8.0\factory-pattern-2.genruntimeconfig.cache
+C:\Users\vosoughi\Desktop\repo\design-pattern-csharp\factory-pattern\factory-pattern-2\obj\Debug\net8.0\ref\factory-pattern-2.dll
